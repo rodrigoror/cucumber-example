@@ -21,3 +21,4 @@ the results will be:
 12 steps (12 passed)
 0m00.100s (executing steps: 0m00.015s)
 ```
+![image](https://github.com/rodrigoror/cucumber-example/assets/518089/15bcee41-7366-421d-8f50-f53e185f12a7)
